@@ -284,7 +284,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         placeholder="e.g: vendor, libraries">
                 </div>
                 <div class="form-group">
-                    <button type="button" id="btn-search">Search Files</button>
+                    <button type="button" id="btn-search">Search files</button>
                 </div>
             </form>
         </div>
